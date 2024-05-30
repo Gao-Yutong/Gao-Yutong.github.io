@@ -18,17 +18,17 @@ Throughout my undergraduate and graduate studies, I consistently achieved a high
 
 HONORS & AWARDS
 ======
-2023  Third Prize, 2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week
-2022 & 2023 Second Class Academic Scholarship
-2021  Second Prize, The 1st National Community Garden Design and Creation Construction Competition and Community Participation
-2021  First Prize, Yuanye Awards International Competition
-2021  Beijing Outstanding Graduate
-2021  China Agricultural University Outstanding Graduate
-2020  Outstanding College Students Online Summer Camp, School of Urban Planning and Design, Peking University
-2019 & 2018 & 2017  China Agricultural University Merit Student
-2019  First Class Academic Excellence Scholarship 
-2019  China National Scholarship
-2018  Outstanding Student Scholarship
+|2023  |Third Prize, 2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week|
+|2022 & 2023| Second Class Academic Scholarship|
+|2021  |Second Prize, The 1st National Community Garden Design and Creation Construction Competition and Community Participation|
+|2021  |First Prize, Yuanye Awards International Competition|
+|2021  |Beijing Outstanding Graduate|
+|2021  |China Agricultural University Outstanding Graduate|
+|2020  |Outstanding College Students Online Summer Camp, School of Urban Planning and Design, Peking University|
+|2019 & 2018 & 2017  |China Agricultural University Merit Student|
+|2019  |First Class Academic Excellence Scholarship| 
+|2019  |China National Scholarship|
+|2018  |Outstanding Student Scholarship|
 
 
 Getting started
