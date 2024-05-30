@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutong Gao"
+title: "Self-introduction"
 author_profile: true
 redirect_from: 
   - /about/
