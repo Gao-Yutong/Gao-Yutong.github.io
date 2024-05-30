@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am GAO Yutong, a third year graduate student majoring in Landscape Architecture Science at [School of Design](https://designschool.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes landscape ecology and urban biodiversity. Specifically, I am particularly focused on the relationship between urbanization and plant diversity. 
+I am Yutong Gao, a third year graduate student majoring in Landscape Architecture Science at [School of Design](https://designschool.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes landscape ecology and urban biodiversity. Specifically, I am particularly focused on the relationship between urbanization and plant diversity. 
 
 To conduct my research, I acquired expertise in plant taxonomy and conducted plant field surveys to gather data. I employed remote sensing image interpretation techniques to examine the level of urbanization. Drawing on established theories like environmental filtering, my goal is to extensively investigate the influence of urbanization on urban biodiversity using quantitative modeling. Moreover, I explored the phylogenetic diversity of plants in addition to studying species diversity.
 
@@ -16,11 +16,20 @@ During my master's degree, I was supervised by [Pro.  Junxiang Li](https://desig
 Throughout my undergraduate and graduate studies, I consistently achieved a high grade point average, secured multiple scholarships from my institution, and actively participated in the program. Further details are available in my [CV](../assets/CV_Yutong GAO.pdf).
 
 
-Education
+HONORS & AWARDS
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2023  Third Prize, 2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week
+2022 & 2023 Second Class Academic Scholarship
+2021  Second Prize, The 1st National Community Garden Design and Creation Construction Competition and Community Participation
+2021  First Prize, Yuanye Awards International Competition
+2021  Beijing Outstanding Graduate
+2021  China Agricultural University Outstanding Graduate
+2020  Outstanding College Students Online Summer Camp, School of Urban Planning and Design, Peking University
+2019 & 2018 & 2017  China Agricultural University Merit Student
+2019  First Class Academic Excellence Scholarship 
+2019  China National Scholarship
+2018  Outstanding Student Scholarship
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
