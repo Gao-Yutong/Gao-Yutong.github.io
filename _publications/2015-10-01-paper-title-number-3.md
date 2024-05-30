@@ -1,13 +1,19 @@
 ---
-title: "Paper Title Number 3"
+title: "Exploration of visitors’ perception and usage characteristics in Urban Forest Park of Beijing"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'HUANG Miaoxin CHEN Xinhui GAO Yutong CHANG Qing'
+date: 2021-10-01
+venue: 'Fujian Architecture & Construction'
+
+paperurl: 'http://gao-yutong.github.io/files/paper-hmx.pdf'
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+Recently, the establishment of urban forest parks has become one of the main ways of urban renewal and ecosystem remediation in Beijing. A case study over the Guangyanggu Urban Forest Park and Baiwangshan Forest Park has been carried out by our team, so as to collect and analyze visitors' environmental perception and usage activity characteristics, the method of Post Occupancy Evaluation and behaviors observation survey has been applied in this research. The result provides a profound understanding of the difference of visitors' perception and behavior characteristics for two forest parks. Base on the result, we propose that landscape design should be focus on plants, hence to protect forest resources. Meanwhile, we suggest that space design should be refined to balance ecological and social functions. Finally, in the small urban forest parks of high - density cities, the relevant service facilities should be increased for the elders.
+
+
+**Keyword**：Post Occupancy Evaluation; Urban Forest Park; Visitors’ perception; Behavior characteristics; Planning and design
+
