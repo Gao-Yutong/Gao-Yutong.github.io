@@ -23,9 +23,9 @@ HONORS & AWARDS
 
  * 2021    First Prize, Yuanye Awards International Competition
 
- * 2021    Beijing Outstanding Graduate
+ * **2021    Beijing Outstanding Graduate**
 
- * 2021    China Agricultural University Outstanding Graduate
+ * **2021    China Agricultural University Outstanding Graduate**
 
  * 2020    Outstanding College Students Online Summer Camp, School of Urban Planning and Design, Peking University
 
@@ -33,7 +33,7 @@ HONORS & AWARDS
 
  * 2019    First Prize Academic Excellence Scholarship
 
- * 2019    China National Scholarship
+ * **2019    China National Scholarship**
 
  * 2018    Outstanding Student Scholarship
 
