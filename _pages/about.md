@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yutong Gao, a third year graduate student majoring in Landscape Architecture Science at [School of Design](https://designschool.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes landscape ecology and urban biodiversity. Specifically, I am particularly focused on the relationship between urbanization and plant diversity. 
+I am Yutong Gao, a third year graduate student majoring in Landscape Architecture Science at [School of Design](https://designschool.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes landscape ecology and urban biodiversity. Specifically, I focused on the relationship between urbanization and plant diversity. 
 
 To conduct my research, I acquired expertise in plant taxonomy and conducted plant field surveys to gather data. I employed remote sensing image interpretation techniques to examine the level of urbanization. Drawing on established theories like environmental filtering, my goal is to extensively investigate the influence of urbanization on urban biodiversity using quantitative modeling. Moreover, I explored the phylogenetic diversity of plants in addition to studying species diversity.
 
