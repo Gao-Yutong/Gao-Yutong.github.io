@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yutong Gao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am GAO Yutong, a third year graduate student majoring in Landscape Architecture Science at [School of Design](https://designschool.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes landscape ecology and urban biodiversity. Specifically, I am particularly focused on the relationship between urbanization and plant diversity. 
+
+To conduct my research, I acquired expertise in plant taxonomy and conducted plant field surveys to gather data. I employed remote sensing image interpretation techniques to examine the level of urbanization. Drawing on established theories like environmental filtering, my goal is to extensively investigate the influence of urbanization on urban biodiversity using quantitative modeling. Moreover, I explored the phylogenetic diversity of plants in addition to studying species diversity.
+
+During my master's degree, I was supervised by [Pro.  Junxiang Li](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ed06355ead9bc12b4a54115) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), while [Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)  from [China Agricultural University](https://en.cau.edu.cn/) supervised my undergraduate studies.
+
+Throughout my undergraduate and graduate studies, I consistently achieved a high grade point average, secured multiple scholarships from my institution, and actively participated in the program. Further details are available in my [CV](../assets/CV_Yutong GAO.pdf).
+
 
 A data-driven personal website
 ======
