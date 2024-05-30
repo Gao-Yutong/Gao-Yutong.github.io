@@ -2,7 +2,7 @@
 title: "Exploration of visitors’ perception and usage characteristics in Urban Forest Park of Beijing"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'HUANG Miaoxin CHEN Xinhui GAO Yutong CHANG Qing'
+excerpt: 'HUANG Miaoxin#, CHEN Xinhui, **GAO Yutong**, CHANG Qing*'
 date: 2021-10-01
 venue: 'Fujian Architecture & Construction'
 
