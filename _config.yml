@@ -21,7 +21,7 @@ repository               : "Gao-Yutong/Gao-Yutong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo-gyt.png"
   name             : "Yutong Gao"
   pronouns         : # example: "she/her"  
   bio              : "M.S. in Engineering | Landscape Architecture"
