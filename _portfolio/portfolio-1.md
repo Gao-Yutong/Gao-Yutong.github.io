@@ -1,6 +1,6 @@
 ---
 title: "Dissertation for M.D.: Spatial Patterns and Influencing Factors of Plant Phylogenetic Diversity along Urban-Rural Gradients in Shanghai, China"
-excerpt: "May 2023 – May 2024, Shanghai, China <br/><img src='/images/500x300.png'>"
+excerpt: "May 2023 – May 2024, Shanghai, China <br/><img src='/images/1-1.png'>"
 collection: portfolio
 ---
 **Abstract**
