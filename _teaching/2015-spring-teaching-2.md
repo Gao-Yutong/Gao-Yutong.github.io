@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Sep.2021 –Sep.2024 | Shanghai Jiao Tong University"
 collection: teaching
-type: "Workshop"
+type: "M.S. in Engineering"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Landscape Architecture, School of Design"
+date: 
+location: "Shanghai, China"
 ---
+GPA: 3.82/4.0, [TRANSCRIPT](
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Thesis: landscape ecology, urban plant diversity, phylogenetic diversity
+
+Major Courses:
+======
+Major Courses: City and Regional Planning (A) 
+Landscape Ecology (A+)
+Pollution Ecology (A)
+History & Theory of Landscape Architecture (A+)
+Application and Technology of Landscape Plants (A)
+Urban Ecology: Science of Cities (A)
+
+Website 
 ======
 
-Heading 2
-======
 
-Heading 3
-======
+
