@@ -36,12 +36,13 @@ HONORS & AWARDS
  * 2018    Outstanding Student Scholarship
 
 
+
 TECHNICAL SKILLS 
 ======
 
-Language: Mandarin (Native), English (CET-6:547)
+ * Language: Mandarin (Native), English (CET-6:547)
 
 
-Software: R, Proficient in Microsoft Office (Word, Excel, PowerPoint), ArcGIS, ENVI, Ecotect, Envi-met, CAD, PS, Lumion, Rhino, Sketchup, SPSS, Origin
+ * Software: R, Proficient in Microsoft Office (Word, Excel, PowerPoint), ArcGIS, ENVI, Ecotect, Envi-met, CAD, PS, Lumion, Rhino, Sketchup, SPSS, Origin
 
 
