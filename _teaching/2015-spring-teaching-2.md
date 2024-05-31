@@ -1,5 +1,5 @@
 ---
-title: "Sep.2021 –Sep.2024 | Shanghai Jiao Tong University"
+title: "Sep.2021 –Sep.2024 , Shanghai Jiao Tong University"
 collection: teaching
 type: "M.S. in Engineering"
 permalink: /teaching/2015-spring-teaching-1
