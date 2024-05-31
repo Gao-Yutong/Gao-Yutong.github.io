@@ -7,7 +7,7 @@ venue: "Landscape Architecture, School of Design"
 date: 
 location: "Shanghai, China"
 ---
-GPA: 3.82/4.0, [TRANSCRIPT-M.S.](_teaching/transcript1.pdf)
+GPA: 3.82/4.0,  [Down load Transcript -M.S.](_teaching/高宇童+Gao+Yutong_研究生英文成绩单+Transcript+in+English.pdf)
 
 
 Thesis: landscape ecology, urban plant diversity, phylogenetic diversity
