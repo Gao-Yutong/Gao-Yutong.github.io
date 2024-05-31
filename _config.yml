@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "photo-gyt.png"
   name             : "Yutong Gao"
-  pronouns         : "../assets/CV-Yutong GAO.pdf"  
+  pronouns         : #"../assets/CV-Yutong GAO.pdf"  
   bio              : "M.S. in Engineering | Landscape Architecture"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
