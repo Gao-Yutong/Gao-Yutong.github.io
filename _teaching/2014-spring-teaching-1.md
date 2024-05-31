@@ -1,20 +1,37 @@
 ---
-title: "Teaching experience 1"
+title: "Sep. 2017 – Jun. 2021 |  China Agricultural University"
 collection: teaching
-type: "Undergraduate course"
+type: "B.S. in Agriculture"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Landscape Architecture, College of Horticulture"
+date: 
+location: "Beijing, China"
 ---
+GPA: 3.91/4.0, Ranking: 1/34, [Download Transcript -B.S.]
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Tutor: [Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)
+
+
+Thesis: Migratory birds, Mine restoration, Habitat planning，wetland landscape
+
+
+Major Courses
 ======
+Basis of Geology (A+)
+Floriculture (A+)
+Landscape Dendrology (A+)
+Urban Green Space System Planning (A+)
+Ecology for Landscape Architecture (A) 
+Introduction of Remote Sensing and GIS (A+)
+Site Engineering for Landscape Architecture (A)
+Landscape and Garden Design (A) 
+Probability Theory Mathematical Statistic (A)
 
-Heading 2
-======
 
-Heading 3
+Website
 ======
+[Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)
+
+[China Agricultural University](https://en.cau.edu.cn/)
+
