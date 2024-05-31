@@ -7,7 +7,7 @@ venue: "Landscape Architecture, College of Horticulture"
 date: 2021-01-01 
 location: "Beijing, China"
 ---
-GPA: 3.91/4.0, Ranking: 1/34,  [Download Transcript - Yutong G.-B.S.](_teaching/trans-bs.pdf)
+GPA: 3.91/4.0, Ranking: 1/34,  [Download Transcript - Yutong G.-B.S.](../assets/trans-bs.pdf)
 
 
 Tutor: [Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)
