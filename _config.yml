@@ -27,7 +27,7 @@ author:
   bio              : "M.S. in Engineering | Landscape Architecture"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  uri              : "../assets/CV-Yutong GAO.pdf"
+  uri              : #"../assets/CV-Yutong GAO.pdf"
   email            : "gaoyutong@sjtu.edu.cn" 
 
   # Academic websites
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  CV               : "../assets/CV-Yutong GAO.pdf"
 
 
 # Site Settings
