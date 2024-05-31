@@ -1,5 +1,5 @@
 ---
-title: "Sep. 2017 – Jun. 2021 |  China Agricultural University"
+title: "Sep. 2017 – Jun. 2021 ,  China Agricultural University"
 collection: teaching
 type: "B.S. in Agriculture"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,7 +7,7 @@ venue: "Landscape Architecture, College of Horticulture"
 date: 2017-01-01 
 location: "Beijing, China"
 ---
-GPA: 3.91/4.0, Ranking: 1/34, [Download Transcript -B.S.]
+GPA: 3.91/4.0, Ranking: 1/34, [Download Transcript -B.S.](
 
 
 Tutor: [Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)
