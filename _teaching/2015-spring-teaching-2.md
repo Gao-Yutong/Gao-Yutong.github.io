@@ -7,7 +7,7 @@ venue: "Landscape Architecture, School of Design"
 date: 
 location: "Shanghai, China"
 ---
-GPA: 3.82/4.0, [TRANSCRIPT](
+GPA: 3.82/4.0, [TRANSCRIPT-M.S.](_teaching/transcript1.pdf)
 
 
 Thesis: landscape ecology, urban plant diversity, phylogenetic diversity
