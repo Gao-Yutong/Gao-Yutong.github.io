@@ -19,13 +19,29 @@ Thesis: Migratory birds, Mine restoration, Habitat planning，wetland landscape
 Major Courses
 ======
 Basis of Geology (A+)
+
+
 Floriculture (A+)
+
+
 Landscape Dendrology (A+)
+
+
 Urban Green Space System Planning (A+)
+
+
 Ecology for Landscape Architecture (A) 
+
+
 Introduction of Remote Sensing and GIS (A+)
+
+
 Site Engineering for Landscape Architecture (A)
+
+
 Landscape and Garden Design (A) 
+
+
 Probability Theory Mathematical Statistic (A)
 
 
