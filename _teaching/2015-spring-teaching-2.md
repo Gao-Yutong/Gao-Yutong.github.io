@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Sep.2021 –Sep.2024 | Shanghai Jiao Tong University"
 collection: teaching
-type: "Workshop"
+type: "M.S. in Engineering"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Landscape Architecture, School of Design"
+date: 2021-01-01
+location: "Shanghai, China"
 ---
 GPA: 3.82/4.0,  [Down load Transcript -M.S.](_teaching/高宇童+Gao+Yutong_研究生英文成绩单+Transcript+in+English.pdf)
 
