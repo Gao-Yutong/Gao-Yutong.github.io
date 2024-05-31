@@ -4,7 +4,7 @@ collection: teaching
 type: "B.S. in Agriculture"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Landscape Architecture, College of Horticulture"
-date: 2017-01-01 
+date: 2021-01-01 
 location: "Beijing, China"
 ---
 GPA: 3.91/4.0, Ranking: 1/34,  [Download Transcript - Yutong G.-B.S.](../_teaching/trans-bs.pdf)
