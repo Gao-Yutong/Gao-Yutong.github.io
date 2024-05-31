@@ -7,7 +7,7 @@ venue: "Landscape Architecture, School of Design"
 date: 2021-01-01
 location: "Shanghai, China"
 ---
-GPA: 3.82/4.0,  [Download Transcript - Yutong G.-M.S.](https://github.com/Gao-Yutong/Gao-Yutong.github.io/_teaching/trans-ms.pdf)
+GPA: 3.82/4.0,  [Download Transcript - Yutong G.-M.S.](../assets/trans-ms.pdf)
 
 
 Tutor: [Pro.  Junxiang Li](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ed06355ead9bc12b4a54115)
