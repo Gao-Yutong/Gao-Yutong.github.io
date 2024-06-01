@@ -1,5 +1,5 @@
 ---
-title: "Dissertation for M.D.: Spatial Patterns and Influencing Factors of Plant Phylogenetic Diversity along Urban-Rural Gradients in Shanghai, China"
+title: "Dissertation for M.D. : Spatial Patterns and Influencing Factors of Plant Phylogenetic Diversity along Urban-Rural Gradients in Shanghai, China"
 excerpt: "**May 2023 – May 2024**, Shanghai, China <br/><img src='/images/1-5.png'>"
 collection: portfolio
 ---
@@ -25,6 +25,8 @@ The findings of my research can provide insights into the understanding of mecha
 
 
 **Selected Figures**
+
+
 <img src='/images/1-1.png'>
 Figure 2-1. Transect and sampling point locations
 
