@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Research Program (URP) of China Agricultural University: Comparative Analysis of Visitors' Perception and Usage Characteristics in Urban Forest Park, Beijing"
-excerpt: "**Mar. 2020 – Mar. 2021**, Beijing, China <br/><img src='/images/3-1.png'>"
+excerpt: "**Mar. 2020 – Mar. 2021**, Beijing, China "
 collection: portfolio
 ---
  *  Investigated the Guangyanggu Urban Forest Park in Beijing and Baiwangshan Forest Park based on the Post Occupancy Evaluation (POE) method, and conducted a comparative analysis and summary of the behavioral patterns, environmental perceptions, and post-use evaluation of park users
