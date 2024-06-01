@@ -13,6 +13,11 @@ collection: portfolio
 
 <img src='/images/3-2.png'>
 
+Figure 3: Temporal and Spatial Changes of Night Light Images (Red indicates increased light, Blue indicates decreased light): (a) Changes from March 2022 to December 2021
+
+(b) Changes in April and March 2021 (c) Changes in May and April 2022
+
 
 
 <img src='/images/3-3.png'>
+Figure 4 (a) Temporal and Spatial Changes of Night Light Images and (b) POI Map in Minhang District, Shanghai, China
