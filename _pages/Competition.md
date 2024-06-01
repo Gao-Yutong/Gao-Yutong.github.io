@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Competition"
+title: "COMPETITIONS"
 author_profile: true
 redirect_from: 
   - /Competition/
