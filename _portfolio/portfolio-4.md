@@ -13,9 +13,7 @@ collection: portfolio
 
 <img src='/images/3-2.png'>
 
-Figure 3: Temporal and Spatial Changes of Night Light Images (Red indicates increased light, Blue indicates decreased light): (a) Changes from March 2022 to December 2021
-
-(b) Changes in April and March 2021 (c) Changes in May and April 2022
+Figure 3: Temporal and Spatial Changes of Night Light Images (Red indicates increased light, Blue indicates decreased light):  (a) Changes from March 2022 to December 2021 (b) Changes in April and March 2021 (c) Changes in May and April 2022
 
 
 
