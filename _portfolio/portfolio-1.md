@@ -24,7 +24,7 @@ The findings of my research can provide insights into the understanding of mecha
 **Keywords**: Urban-rural gradient, Phylogenetic diversity, Urban vegetation, Urbanization index, Structural Equation Modeling
 
 
-<br/><img src='/images/1-1.png'>
+<img src='/images/1-1.png'>
 Figure 2-1. Transect and sampling point locations
 
 
