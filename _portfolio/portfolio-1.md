@@ -24,8 +24,15 @@ The findings of my research can provide insights into the understanding of mecha
 **Keywords**: Urban-rural gradient, Phylogenetic diversity, Urban vegetation, Urbanization index, Structural Equation Modeling
 
 
+**Selected Figures**
 <img src='/images/1-1.png'>
 Figure 2-1. Transect and sampling point locations
 
+<img src='/images/1-2.png'>
+Figure 3-2. Spatial patterns of Faith’s PD of different plant taxa along urban-rural gradients
 
+<img src='/images/1-3.png'>
+Figure 4-3. The relationship between PD and urbanization degree (UDI) for different plant taxa
 
+<img src='/images/1-4.png'>
+Figure 5-5 Results of Structural Equation Modeling of Urbanization Influencing Factors on PD
