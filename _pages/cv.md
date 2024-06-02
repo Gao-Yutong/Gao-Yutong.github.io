@@ -30,7 +30,7 @@ COMPETITIONS
 
 
 * **2021 Yuanye Awards International Competition**
-  * Github University
+  * 2021, Beijing, China
   * Organizers: International Landscape Architecture Association , Asian Landscape Architecture Society , International Green Architecture and Housing Landscape Association , China Society of Natural Resources
   * **Award: the first prize**
   * [Exhibited in _City University of Macau_ ](https://mp.weixin.qq.com/s/S725kn_aBIgHfkr8M_gxeA)
