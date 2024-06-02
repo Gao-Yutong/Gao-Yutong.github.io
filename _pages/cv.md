@@ -15,6 +15,8 @@ COMPETITIONS
   * May 2023, Sichuan, China
   * Organizers: Education Committee of Chinese Society of Landscape Architecture , Beiing Forestry University , Chengdu Municipal Park City Construction and Management Breau
   * Award: the third prize
+ 
+    
     <img src='/images/1.png'>
     
 
@@ -22,7 +24,9 @@ COMPETITIONS
   * Jan. 2022, Shanghai, China
   * Organizer: Department of Landscape Architecture, School of Architecture, Tongji University
   * Award: the second prize
-  *  <img src='/images/2.png'>
+ 
+   
+    <img src='/images/2.png'>
 
 
 * 2021 Yuanye Awards International Competition
@@ -30,7 +34,11 @@ COMPETITIONS
   * Organizers: International Landscape Architecture Association , Asian Landscape Architecture Society , International Green Architecture and Housing Landscape Association , China Society of Natural Resources
   * **Award: the first prize**
   * [Exhibited in _City University of Macau_ ](https://mp.weixin.qq.com/s/S725kn_aBIgHfkr8M_gxeA)
-  * <img src='/images/3.png'>
+ 
+    
+    <img src='/images/3.png'>
+
+
 
   
 
@@ -49,14 +57,20 @@ ACADEMIC & VOLUNTEER ACTIVITIES
 | Volunteer Service General Team, China Agricultural University (Cadre)                                                                                | 2017 – 2018           | Beijing, China  |
 
 
+
+
   
 WHAT'S MORE...
 ======
-* PAINTING, TRAVELING & BOXING...
+
+
+* PAINTING
 
   
 <img src='/images/4.png'>
 
+
+* TRAVELING...
 
 
 <img src='/images/5.png'>
