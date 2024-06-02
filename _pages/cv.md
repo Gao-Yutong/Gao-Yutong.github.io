@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Competition & Activity"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+COMPETITIONS
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week
+  * May 2023, Sichuan, China
+  * Organizers: Education Committee of Chinese Society of Landscape Architecture , Beiing Forestry University , Chengdu Municipal Park City Construction and Management Breau
+  * Award: the third prize
+    <
+
+* The 1st National Community Garden Design and Construction Competition & Community Participation
+  * Jan. 2022, Shanghai, China
+  * Organizer: Department of Landscape Architecture, School of Architecture, Tongji University
+  * Award: the second prize
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 Work experience
 ======
@@ -41,24 +53,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
