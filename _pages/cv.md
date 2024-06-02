@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Competition & Activity"
+title: "COMPETITIONS & ACTIVITIES"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 COMPETITIONS
 ======
-* 2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week
+* **2023 Chengdu Park City International Garden Season and The 6th BFU International Garden-Making Week**
   * May 2023, Sichuan, China
   * Organizers: Education Committee of Chinese Society of Landscape Architecture , Beiing Forestry University , Chengdu Municipal Park City Construction and Management Breau
   * Award: the third prize
@@ -20,7 +20,7 @@ COMPETITIONS
     <img src='/images/1.png'>
     
 
-* The 1st National Community Garden Design and Construction Competition & Community Participation
+* **The 1st National Community Garden Design and Construction Competition & Community Participation**
   * Jan. 2022, Shanghai, China
   * Organizer: Department of Landscape Architecture, School of Architecture, Tongji University
   * Award: the second prize
@@ -29,7 +29,7 @@ COMPETITIONS
     <img src='/images/3.png'>
 
 
-* 2021 Yuanye Awards International Competition
+* **2021 Yuanye Awards International Competition**
   * Github University
   * Organizers: International Landscape Architecture Association , Asian Landscape Architecture Society , International Green Architecture and Housing Landscape Association , China Society of Natural Resources
   * **Award: the first prize**
@@ -64,14 +64,17 @@ WHAT'S MORE...
 ======
 
 
-* PAINTING
+* **PAINTING**
 
   
 <img src='/images/4.png'>
 
 
-* TRAVELING...
+* **TRAVELING**
+
 
 
 <img src='/images/5.png'>
 
+
+* To be continued...
