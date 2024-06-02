@@ -26,7 +26,7 @@ COMPETITIONS
   * Award: the second prize
  
    
-    <img src='/images/2.png'>
+    <img src='/images/3.png'>
 
 
 * 2021 Yuanye Awards International Competition
@@ -36,7 +36,7 @@ COMPETITIONS
   * [Exhibited in _City University of Macau_ ](https://mp.weixin.qq.com/s/S725kn_aBIgHfkr8M_gxeA)
  
     
-    <img src='/images/3.png'>
+    <img src='/images/2.png'>
 
 
 
