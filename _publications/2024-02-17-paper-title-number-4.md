@@ -6,6 +6,8 @@ excerpt: '**Yutong Gao#**, Meng Wang#, Xing, Bi, Yuhan Liu, Caiyan Wu, Guojian C
 date: 2024-02-17 
 venue: 'Landscape Ecology 39, 166'
 
+
+paperurl: 'http://gao-yutong.github.io/files/paper-LSE.pdf'
 ---
 
 **Abstract**
