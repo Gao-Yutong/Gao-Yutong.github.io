@@ -2,7 +2,7 @@
 title: "Plant Phylogenetic Diversity along the Urban–Rural Gradient and Its Association with Urbanization Degree in Shanghai, China"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: '**Yutong Gao#**, Meng Wanga#, Xing, Bia, Yuhan Liub, Caiyan Wua, Guojian Chenc, Shengjian Kuangd, Shaopeng Lib, Conghe Songe, Junxiang Lia'
+excerpt: '**Yutong Gao#**, Meng Wang#, Xing, Bi, Yuhan Liu, Caiyan Wu, Guojian Chen, Shengjian Kuang, Shaopeng Li, Conghe Song, Junxiang Li'
 date: 2024-02-17 
 venue: 'Landscape Ecology 39, 166'
 
