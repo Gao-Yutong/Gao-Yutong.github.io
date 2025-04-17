@@ -45,6 +45,6 @@ TECHNICAL SKILLS
  * Language: Mandarin (Native), English (TOEFL:80, CET-6:547)
 
 
- * Software:  R, ArcGIS, ENVI, CiteSpace, Envi-met, Origin, CAD, PS, Lumion, Rhino, Sketchup, Proficient in Microsoft Office (Word, Excel, PowerPoint)
+ * Software:  R, ArcGIS, ENVI, CiteSpace, Envi-met, Origin, SPASS, CAD, PS, Lumion, Rhino, Sketchup, Proficient in Microsoft Office (Word, Excel, PowerPoint)
 
 
