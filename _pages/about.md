@@ -11,7 +11,7 @@ I am Yutong Gao, a graduate student majoring in Landscape Architecture Science a
 
 During my master's degree, I was supervised by [Pro.  Junxiang Li](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ed06355ead9bc12b4a54115) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), while [Prof. Qing Chang](https://yyxy.cau.edu.cn/art/2018/2/21/art_29675_42.html)  from [China Agricultural University](https://en.cau.edu.cn/) supervised my undergraduate studies.
 
-Throughout my undergraduate and graduate studies, I consistently achieved a high grade point average, secured multiple scholarships from my institution, and actively participated in the program. Further details are available in my [CV](../assets/CV-Yutong GAO.pdf).
+Throughout my undergraduate and graduate studies, I consistently achieved a high grade point average, secured multiple scholarships from my institution, and actively participated in the program. Further details are available in my [CV](../assets/CV-Yutong GAO-0417-v6.pdf).
 <img src='/images/ME.png'>
 
 
